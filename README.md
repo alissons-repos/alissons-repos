@@ -12,14 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<h1 align="left">Olá 👋 | Hi there 👋</h1>
+<h1 align="left">Olá | Hi there 👋</h1>
 
 ###
 
 <p align="left">Me chamo Alisson, sou de Brasília/DF e sou Desenvolvedor Full Stack. Sinta-se à vontade para explorar meus repositórios e para me perguntar o que quiser. Estou buscando uma transição de carreira e estou aberto para novas conexões na área tech.</p>
-<p align="left">My name is Alisson, I'm from Brasília/DF and I'm a Full Stack Developer. Feel free to explore my repositories and ask me anything you want. I'm looking for a career transition and I'm open to new connections in the tech area.</p>
+
+###
+
+<p align="left">Me chamo Alisson, sou de Brasília/DF e sou Desenvolvedor Full Stack. Sinta-se à vontade para explorar meus reMy name is Alisson, I'm from Brasília/DF and I'm a Full Stack Developer. Feel free to explore my repositories and ask me anything you want. I'm looking for a career transition and I'm open to new connections in the tech area.positórios e para me perguntar o que quiser. Estou buscando uma transição de carreira e estou aberto para novas conexões na área tech.</p>
 
 ###
 
@@ -75,22 +76,22 @@ Here are some ideas to get you started:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/alisson-silva-dos-santos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="32" alt="linkedin logo"  />
   </a>
   <a href="https://www.linkedin.com/in/alisson-silva-dos-santos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="32" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/alisson-silva-dos-santos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="32" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/alisson-silva-dos-santos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="32" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/alisson-silva-dos-santos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="48" height="32" alt="stackoverflow logo"  />
   </a>
   <a href="https://www.linkedin.com/in/alisson-silva-dos-santos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="32" alt="whatsapp logo"  />
   </a>
 </div>
 
