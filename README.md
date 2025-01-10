@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="left">Olá | Hi there 👋</h1>
 
 ###
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Me chamo Alisson, sou de Brasília/DF e sou Desenvolvedor Full Stack. Sinta-se à vontade para explorar meus reMy name is Alisson, I'm from Brasília/DF and I'm a Full Stack Developer. Feel free to explore my repositories and ask me anything you want. I'm looking for a career transition and I'm open to new connections in the tech area.positórios e para me perguntar o que quiser. Estou buscando uma transição de carreira e estou aberto para novas conexões na área tech.</p>
+<p align="left">My name is Alisson, I'm from Brasília/DF and I'm a Full Stack Developer. Feel free to explore my repositories and ask me anything you want. I'm looking for a career transition and I'm open to new connections in the tech area.</p>
 
 ###
 
@@ -62,7 +63,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alissons-repos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=alissons-repos&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alissons-repos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph"  />
